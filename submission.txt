@@ -1,0 +1,18 @@
+Repository URL: https://github.com/[ojalloh906-art]/Easy-Access-Smart-Library-Group-I
+Tag Name: week4-submission
+
+Files Included:
+1. operations.py
+2. demo.py
+3. tests.py
+4. UML.png
+5. DesignRationale.pdf
+6. README.md
+7. submission.txt
+
+Submitted by: [Alhaji Tanu Jalloh]
+Student ID: [905004675]
+Module: PROG211 – Object-Oriented Programming 1
+Lecturer: Mr. Alusine Lavalie
+Semester: 3 
+Year: 2
